@@ -19,16 +19,6 @@ This is my personal portfolio website built to showcase my projects, skills, int
 ## 🔗 Live Demo
 [Coming soon or add link here]
 
-## 📂 Folder Structure
-/Portfolio-Website
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-├── images/
-└── resume.pdf
-
 
 ## 📌 Purpose
 To build an online identity and provide quick access to my work, GitHub projects, and professional background for recruiters and collaborators.
